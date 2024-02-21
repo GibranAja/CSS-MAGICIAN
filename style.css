@@ -1,0 +1,16 @@
+.sectioned {
+  background-color: #fcb36a;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 0;
+}
+
+.bg-kopi {
+  height: 230px;
+  position: absolute;
+  top: 20%;
+  left: 17%;
+  transform: translate(-50%, -50%);
+  z-index: -2;
+}
